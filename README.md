@@ -16,6 +16,10 @@ Thuraya Shaheen – Peter the Great St. Petersburg Polytechnic University
 - Multi-seed validation (15 seeds), Bayesian analysis, SHAP interpretability
 
 ---
+# Usage
+Run on Kaggle (recommended):
+The notebook was developed and tested on Kaggle with GPU enabled.
+
 
 ## Requirements
 
